@@ -141,7 +141,7 @@ This is the practical case for cognitive memory infrastructure. Buyers comparing
 
 ## **Architecture: Four Layers**
 
-Reasonara architecture
+![Reasonara architecture](assets/architecture.png)
 
 ### **Layer 1: Ingestion & Normalization**
 
